@@ -1,6 +1,19 @@
-#A03
+03
 https://ausarion.github.io/rja36/A03/
-How to use Github Tutorial
+What is Git, Webstorm and How to use Github? Tutorial!!!
+
+Git is a Distributed Version Control tool that is used to store different versions of a file in a remote or local repository. It is used to track changes in the source code. It allows multiple developers to work together.
+
+Webstorm is a Integrated Development Environment(IDE) text editor, considered to be the smartest
+Javascript text editor for most popular framework; Web, Mobile, Server and Desktop.
+I haven't had a chance to experience working inside Webstorm, but Spring Semester of 2019, I got the 
+oppportunity to work with "Atom" another text editor for the first time. The experience was enlighten
+and encouraging to continue to learn more about other text editors. I was a part of class Project, that 
+created our first Android App using "Atom." In my first year at NJIT, I learned about Git and Github in CS100.
+I found it intriguing that you can collaborate with others during the process of developing a Android App using 
+Github. Every team member has a chance and an obligation to "Commit and Contribute", to be a part of a innovating
+project that is beneficial for internship programs or future employment.
+
 
 #Step 1.Install Git and Create an account on Github
 @https://git-scm.com/
@@ -48,7 +61,7 @@ commit keep track of changes.
 To make and commit changes
 a.Click on the pencil icon in the upper right corner
    of the file view edit.
-b.Write a brief about yourself. Then write a commit message
+b.Write a brief message about yourself. Then write a commit message
  that describes the changes.
 c.Then click "Commit changes" button, changes will made
   in the readme-edits file, in this branch content will
@@ -89,5 +102,30 @@ c.Then click "Commit changes" button, changes will made
  merge chenages into "master".
  
  Confirm Merge!
+ 
+ Definition of  reamaining Terms:
+ 
+ Clone- Cloning a repository means that you're downloading a copy of the source code from source control.
+ Push- Pushing refers to sending your committed changes to a remote repository, such as a repository hosted on GitHub.
+ Merge Conflict- Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to 
+ decide which changes to incorporate in the final merge, usually on different lines or files which makes merging easy for 
+ computer understand.
+ Fetch- just "downloads" the changes from the remote to your local repository.
+ Remote- A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such 
+ a remote repository is stored on a code hosting service like GitHub or on an internal server. In contrast the local 
+ repository, a remote does not show the file tree of project current state. 
+ 
+  
+
+ 
+ 
+ Work Cited:
+ https://guides.github.com/activities/hello-world/
+ https://www.jetbrains.com
+ https://help.github.com/en/articles/about-merge-conflicts
+ https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+ https://www.git-tower.com 
+
+ 
  
 
