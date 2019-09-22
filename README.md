@@ -112,7 +112,7 @@ c.Then click "Commit changes" button, changes will made
  decide which changes to incorporate in the final merge, usually on different lines or files which makes merging easy for 
  computer understand.
  Fetch- just "downloads" the changes from the remote to your local repository.
- Remote- A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such 
+ Remote- A remote in Git is a common repository that all team members use to exchange their changes. In most cases,such 
  a remote repository is stored on a code hosting service like GitHub or on an internal server. In contrast the local 
  repository, a remote does not show the file tree of project current state. 
  
