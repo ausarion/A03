@@ -104,7 +104,7 @@ c.Then click "Commit changes" button, changes will made
  
  Confirm Merge!
  
- Definition of  reamaining Terms:
+ Definition of  remaining Terms:
  
  Clone- Cloning a repository means that you're downloading a copy of the source code from source control.
  Push- Pushing refers to sending your committed changes to a remote repository, such as a repository hosted on GitHub.
