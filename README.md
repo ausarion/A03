@@ -1,5 +1,5 @@
 #A03
-https://ausarion.github.io/rja36/A03/
+https://ausarion.github.io/A03/
 What is Git, Webstorm and How to use Github? Tutorial!!!
 
 Git is a Distributed Version Control tool that is used to store different versions of a file in a remote or local repository. It is used to track changes in the source code. It allows multiple developers to work together.
