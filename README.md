@@ -99,19 +99,23 @@ c.Then click "Commit changes" button, changes will made
  All changes come together in readme-edits branch into the
  "master" branch.
  
- Click the green Merge pull rewuest button to
- merge chenages into "master".
+ Click the green Merge pull request button to
+ merge changes into "master".
  
  Confirm Merge!
  
  Definition of  remaining Terms:
  
  Clone- Cloning a repository means that you're downloading a copy of the source code from source control.
+ 
  Push- Pushing refers to sending your committed changes to a remote repository, such as a repository hosted on GitHub.
+ 
  Merge Conflict- Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to 
  decide which changes to incorporate in the final merge, usually on different lines or files which makes merging easy for 
  computer understand.
+ 
  Fetch- just "downloads" the changes from the remote to your local repository.
+ 
  Remote- A remote in Git is a common repository that all team members use to exchange their changes. In most cases,such 
  a remote repository is stored on a code hosting service like GitHub or on an internal server. In contrast the local 
  repository, a remote does not show the file tree of project current state. 
